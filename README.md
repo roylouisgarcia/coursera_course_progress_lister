@@ -20,3 +20,5 @@ The generated HTML page can be viewed from https://roylouisgarcia.github.io/cour
 |    *Yellow = Enrolled*     |
 
 ![output html page](./images/output.jpg)
+
+![Another screenshot of the output html page](./images/output2.jpg)
