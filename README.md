@@ -13,10 +13,10 @@ The generated HTML page can be viewed from https://roylouisgarcia.github.io/cour
 
 ### Output HTML Page: (https://roylouisgarcia.github.io/coursera_course_progress_lister/)
 
-|   Courses Progress Legend:   |
-| :--------------------------: |
-|    ***Dark Green = Done*     |
-| *Light Green = Unenrolled*** |
-|    *Yellow = Enrolled***     |
+|  Courses Progress Legend:  |
+| :------------------------: |
+|    *Dark Green = Done*     |
+| *Light Green = Unenrolled* |
+|    *Yellow = Enrolled*     |
 
 ![output html page](./images/output.jpg)
