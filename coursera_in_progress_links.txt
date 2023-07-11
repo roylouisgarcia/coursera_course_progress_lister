@@ -1,0 +1,434 @@
+
+SPECIALIZATION: IBM DevOps and Software Engineering Professional Certificate
+link: https://www.coursera.org/professional-certificates/devops-and-software-engineering
+
+There are 13 Courses in this Professional Certificate
+
+Course1: DevOps
+link: donehttps://www.coursera.org/learn/intro-to-devops?specialization=devops-and-software-engineering
+
+Course2: Cloud Computing
+link: donehttps://www.coursera.org/learn/introduction-to-cloud?specialization=devops-and-software-engineering
+
+Course3: Agile Development and Scrum
+link: donehttps://www.coursera.org/learn/agile-development-and-scrum?specialization=devops-and-software-engineering
+
+Course4: Introduction to Software Engineering
+link: https://www.coursera.org/learn/introduction-to-software-engineering/home/week/1
+
+Course5: Hands-on Linux Commands and Shell Scripting
+link: donehttps://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting?specialization=devops-and-software-engineering
+
+Course6: Getting Started with Git and GitHub
+link: donehttps://www.coursera.org/learn/getting-started-with-git-and-github?specialization=devops-and-software-engineering
+
+Course7: Python for Data Science AI and Development
+link: donehttps://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=devops-and-software-engineering
+
+Course8: Python Project for AI and Application Development
+link: donehttps://www.coursera.org/learn/python-project-for-ai-application-development?specialization=devops-and-software-engineering
+
+Course9: Containers w/ Docker Kubernetes and OpenShift
+link: donehttps://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift?specialization=devops-and-software-engineering
+
+Course10: Application Development using Microservices and Serverless
+link: donehttps://www.coursera.org/learn/applications-development-microservices-serverless-openshift?specialization=devops-and-software-engineering
+
+Course11: Test Driven Development (TDD)
+link: donehttps://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?specialization=devops-and-software-engineering
+
+Course12: Continuous Integration and Continuous Delivery (CI/CD)
+link: donehttps://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd?specialization=devops-and-software-engineering
+
+Course13: Application Security and Monitoring
+link: donehttps://www.coursera.org/learn/application-security-and-monitoring?specialization=devops-and-software-engineering
+
+Course14: DevOps Capstone Project
+link: https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering
+
+---------------------------------------------------------
+
+
+
+SPECIALIZATION: Deep Learning
+link: https://www.coursera.org/specializations/deep-learning
+
+There are 5 Courses in this Specialization
+
+Course1: Neural Networks and Deep Learning
+link: donehttps://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+
+Course2: Improving Deep Neural Networks Hypertuning Regularization and Optimization
+link: https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
+
+Course3: Structuring Machine Learning Projects
+link: https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning
+
+Course4: Convolutional Neural Networks
+link: https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
+
+Course5: Sequence Models
+link: https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning
+
+------------------------------------------------------
+
+
+
+
+
+
+SPECIALIZATION: Meta Android Developer Professional Certificate
+link: https://www.coursera.org/professional-certificates/meta-android-developer#courses
+
+There are 13 Courses in this Professional Certificate
+
+Course1: Android Mobile Application Development
+link: donehttps://www.coursera.org/learn/introduction-to-android-mobile-application-development?specialization=meta-android-developer
+
+Course2: Version Control
+link: donehttps://www.coursera.org/learn/introduction-to-version-control?specialization=meta-android-developer
+
+Course3: Programming Fundamentals in Kotlin
+link: https://www.coursera.org/learn/meta-programming-fundamentals-kotlin?specialization=meta-android-developer
+
+Course4: Principles of UX/UI Design
+link: https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-android-developer
+
+Course5: Create the User Interface in Android Studio
+link: https://www.coursera.org/learn/create-the-user-interface-android-studio?specialization=meta-android-developer
+
+Course6: Advanced Programming in Kotlin
+link: https://www.coursera.org/learn/advanced-programming-in-kotlin?specialization=meta-android-developer
+
+Course7: Working with Data in Android
+link: https://www.coursera.org/learn/working-with-data-in-android?specialization=meta-android-developer
+
+Course8: Advanced Android Development
+link: https://www.coursera.org/learn/advanced-android-development?specialization=meta-android-developer
+
+Course9: Mobile Development and JavaScript
+link: https://www.coursera.org/learn/mobile-development-and-javascript?specialization=meta-android-developer
+
+Course10: React Basics
+link: donehttps://www.coursera.org/learn/react-basics?specialization=meta-android-developer
+
+Course11: React Native
+link: https://www.coursera.org/learn/react-native-course?specialization=meta-android-developer
+
+Course12: Android App Capstone
+link: https://www.coursera.org/learn/android-app-capstone?specialization=meta-android-developer
+
+Course13: Coding Interview Preparation
+link: https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-android-developer
+
+
+------------------------------------------------------
+SPECIALIZATION: IBM Cybersecurity Analyst Professional Certificate
+link: https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
+
+There are 8 Courses in this Professional Certificate
+
+Course1: Cybersecurity Tools and Cyber Attacks
+link: donehttps://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks?specialization=ibm-cybersecurity-analyst
+
+Course2: Cybersecurity Roles Processes and Operating System Security
+link: donehttps://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security?specialization=ibm-cybersecurity-analyst
+
+Course3: Cybersecurity Compliance Framework and System Administration
+link: donehttps://www.coursera.org/learn/cybersecurity-compliance-framework-system-administration?specialization=ibm-cybersecurity-analyst
+
+Course4: Network Security and Database Vulnerabilities
+link:  donehttps://www.coursera.org/learn/network-security-database-vulnerabilities?specialization=ibm-cybersecurity-analyst
+
+Course5: Penetration Testing Incident Response and Forensics
+link: donehttps://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics?specialization=ibm-cybersecurity-analyst
+
+Course6: Cyber Threat Intelligence
+link: donehttps://www.coursera.org/learn/ibm-cyber-threat-intelligence?specialization=ibm-cybersecurity-analyst
+
+Course7: Cybersecurity Capstone: Breach Response Case Studies
+link: donehttps://www.coursera.org/learn/ibm-cybersecurity-breach-case-studies?specialization=ibm-cybersecurity-analyst
+
+Course8: IBM Cybersecurity Analyst Assessment
+link: donehttps://www.coursera.org/learn/ibm-cybersecurity-analyst-assessment?specialization=ibm-cybersecurity-analyst
+---------------------------------------------------------
+
+
+SPECIALIZATION: Meta Database Engineer Professional Certificate
+link: https://www.coursera.org/professional-certificates/meta-database-engineer
+
+There are 9 Courses in this Professional Certificate
+
+Course1: Databases
+link: donehttps://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer
+
+Course2: Version Control
+link: donehttps://www.coursera.org/learn/introduction-to-version-control?specialization=meta-database-engineer
+
+Course3: Database Structures and Management with MySQL
+link: donehttps://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer
+
+Course4: Advanced MySQL Topics
+link: https://www.coursera.org/learn/advanced-mysql-topics?specialization=meta-database-engineer
+
+Course5: Programming in Python
+link: donehttps://www.coursera.org/learn/programming-in-python?specialization=meta-database-engineer
+
+Course6: Database Clients
+link: https://www.coursera.org/learn/database-clients?specialization=meta-database-engineer
+
+Course7: Advanced Data Modeling
+link:  https://www.coursera.org/learn/advanced-data-modeling?specialization=meta-database-engineer
+
+Course8: Database Engineer Capstone
+link:  https://www.coursera.org/learn/database-engineer-capstone?specialization=meta-database-engineer
+
+Course9: Coding Interview Preparation
+link:  https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-database-engineer
+
+---------------------------------------------------------
+
+SPECIALIZATION: Meta Front-End Developer Professional Certificate
+link: https://www.coursera.org/professional-certificates/meta-front-end-developer
+
+There are 9 Courses in this Professional Certificate
+
+Course1: Front-End Development
+link: donehttps://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer
+
+Course2: Programming with JavaScript
+link: donehttps://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer
+
+Course3: Version Control
+link: donehttps://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer
+
+Course4: HTML and CSS in depth
+link: donehttps://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer
+
+Course5: React Basics
+link: donehttps://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer
+
+Course6: Advanced React
+link: https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer
+
+Course7: Principles of UX/UI Design
+link: https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer
+
+Course8: Front-End Developer Capstone
+link: https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer
+
+Course9: Coding Interview Preparation
+link: https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer
+
+---------------------------------------------------------
+
+
+SPECIALIZATION: Meta Back-End Developer Professional Certificate
+link: https://www.coursera.org/professional-certificates/meta-back-end-developer
+
+
+There are 10 Courses in this Professional Certificate
+
+Course1: Back-End Development
+link: donehttps://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer
+
+Course2: Programming in Python
+link: donehttps://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer
+
+Course3: Version Control
+link: donehttps://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer
+
+Course4: Databases for Back-End Development
+link: donehttps://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer
+
+Course5: Django Web Framework
+link: https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer
+
+Course6: APIs
+link: https://www.coursera.org/learn/apis?specialization=meta-back-end-developer
+
+Course7: The Full Stack
+link: https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer
+
+Course8: Cloud Computing
+link: https://www.coursera.org/learn/meta-cloud-computing?specialization=meta-back-end-developer
+
+Course9: Back-End Developer Capstone
+link: https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer
+
+Course10: Coding Interview Preparation
+link: https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer
+
+---------------------------------------------------------
+
+
+SPECIALIZATION: Natural Language Processing Specialization
+link: https://www.coursera.org/specializations/natural-language-processing
+
+
+There are 4 Courses in this Specialization
+
+Course1: Natural Language Processing with Classification and Vector Spaces
+link: donehttps://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing
+
+Course2: Natural Language Processing with Probabilistic Models
+link: donehttps://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing
+
+Course3: Natural Language Processing with Sequence Models
+link: donehttps://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing
+
+Course4: Natural Language Processing with Attention Models
+link: https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing
+
+---------------------------------------------------------
+
+SPECIALIZATION: Google IT Automation with Python Professional Certificate
+link:  https://www.coursera.org/professional-certificates/google-it-automation
+
+
+There are 6 Courses in this Professional Certificate
+
+Course1: Crash Course on Python
+link: https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation
+
+Course2: Using Python to Interact with the Operating System
+link: donehttps://www.coursera.org/learn/python-operating-system?specialization=google-it-automation
+
+Course3: Git and GitHub
+link: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation
+
+Course4: Troubleshooting and Debugging Techniques
+link: https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation
+
+Course5: Configuration Management and the Cloud
+link: https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation
+
+Course6: Automating Real-World Tasks with Python
+link: https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation
+
+---------------------------------------------------------
+
+
+SPECIALIZATION: Meta iOS Developer Professional Certificate 
+link: https://www.coursera.org/professional-certificates/meta-ios-developer
+
+Course1: Introduction to iOS Mobile Application Development
+link: https://www.coursera.org/learn/introduction-to-ios-mobile-application-development?specialization=meta-ios-developer
+
+Course2: Version Control
+link: https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-ios-developer
+
+Course3: Programming Fundamentals in Swift
+link: https://www.coursera.org/learn/programming-fundamentals-swift?specialization=meta-ios-developer
+
+Course4: Principles of UX/UI Design
+link: https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-ios-developer
+
+Course5: Create the User Interface with SwiftUI
+link: https://www.coursera.org/learn/create-the-user-interface-with-swiftui?specialization=meta-ios-developer
+
+Course6: Advanced Programming in Swift
+link: https://www.coursera.org/learn/advanced-programming-in-swift?specialization=meta-ios-developer
+
+Course7: Working with Data in iOS
+link: https://www.coursera.org/learn/working-with-data-in-ios?specialization=meta-ios-developer
+
+Course8: Mobile Development and JavaScript
+link: https://www.coursera.org/learn/mobile-development-and-javascript?specialization=meta-ios-developer
+
+Course9: React Basics
+link: https://www.coursera.org/learn/react-basics?specialization=meta-ios-developer
+
+Course10: React Native
+link: https://www.coursera.org/learn/react-native-course?specialization=meta-ios-developer
+
+Course11: iOS App Capstone
+link: https://www.coursera.org/learn/ios-app-capstone?specialization=meta-ios-developer
+
+Course12: Coding Interview Preparation
+link: https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-ios-developer
+
+-------------------------------------------------------------
+
+SPECIALIZATION: SAP Technology Consultant Professional Certificate
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/professional-certificates/sap-technology-consultant
+
+Course1: SAP Professional Fundamentals
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/sap-professional-fundamentals?specialization=sap-technology-consultant
+
+Course2: Understanding the Enterprise Systems Environment
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/understanding-the-enterprise-systems-environment?specialization=sap-technology-consultant
+
+Course3: SAP Customer Engagement and Discovery
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/sap-customer-engagement-and-discovery?specialization=sap-technology-consultant
+
+Course4: Designing an SAP Solution
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/designing-an-sap-solution?specialization=sap-technology-consultant
+
+Course5: Implementing an SAP Solution
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/implementing-an-sap-solution?specialization=sap-technology-consultant
+
+Course6: SAP Technology Consultant Hands-on Project
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/sap-technology-consultant-hands-on-project?specialization=sap-technology-consultant
+
+Course7: Becoming an SAP Professional
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/becoming-an-sap-professional?specialization=sap-technology-consultant
+
+-------------------------------------------------------------
+
+SPECIALIZATION: SAP Technology Consultant Professional Certificate
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/professional-certificates/sap-technology-consultant
+
+Course1: SAP Professional Fundamentals
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/sap-professional-fundamentals?specialization=sap-technology-consultant
+
+Course2: Understanding the Enterprise Systems Environment
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/understanding-the-enterprise-systems-environment?specialization=sap-technology-consultant
+
+Course3: SAP Customer Engagement and Discovery
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/sap-customer-engagement-and-discovery?specialization=sap-technology-consultant
+
+Course4: Designing an SAP Solution
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/designing-an-sap-solution?specialization=sap-technology-consultant
+
+Course5: Implementing an SAP Solution
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/implementing-an-sap-solution?specialization=sap-technology-consultant
+
+Course6: SAP Technology Consultant Hands-on Project
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/sap-technology-consultant-hands-on-project?specialization=sap-technology-consultant
+
+Course7: Becoming an SAP Professional
+link: https://www.coursera.org/programs/salinas-public-library-dxic5/learn/becoming-an-sap-professional?specialization=sap-technology-consultant
+
+-------------------------------------------------------------
+
+SPECIALIZATION: Advanced Python Scripting for Cybersecurity Specialization
+link: https://www.coursera.org/specializations/advanced-python-scripting-for-cybersecurity#courses
+
+Course1: Advanced Python - Reconnaissance
+link: https://www.coursera.org/learn/python-in-recon?specialization=advanced-python-scripting-for-cybersecurity
+
+Course2: Establishing Command-and-Control and Finding Credentials
+link: https://www.coursera.org/learn/establishing-command-and-control-and-finding-credentials?specialization=advanced-python-scripting-for-cybersecurity
+
+Course3: Defensive Python
+link: https://www.coursera.org/learn/defensive-python?specialization=advanced-python-scripting-for-cybersecurity
+
+
+-------------------------------------------------------------
+
+SPECIALIZATION: Advanced Python Scripting for Cybersecurity Specialization
+link: https://www.coursera.org/specializations/advanced-python-scripting-for-cybersecurity#courses
+
+Course1: Advanced Python - Reconnaissance
+link: https://www.coursera.org/learn/python-in-recon?specialization=advanced-python-scripting-for-cybersecurity
+
+Course2: Establishing Command-and-Control and Finding Credentials
+link: https://www.coursera.org/learn/establishing-command-and-control-and-finding-credentials?specialization=advanced-python-scripting-for-cybersecurity
+
+Course3: Defensive Python
+link: https://www.coursera.org/learn/defensive-python?specialization=advanced-python-scripting-for-cybersecurity
+
+
+-------------------------------------------------------------
+

@@ -1,0 +1,60 @@
+body{
+	background-color: black;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.box {
+	background-color: rgb(144, 209, 170);
+	color: black;
+	border-radius: 5px;
+	margin: 2px;
+	padding: 10px;
+	width: 90%;
+}
+
+.box:hover{
+	box-shadow: 10px 10px 10px 10px lightblue;
+	background-color: rgb(223, 216, 4);
+	color: black;
+}
+
+ul a{
+	color: black;
+	width: 90%;
+}
+.done, .done a{
+	background-color: rgb(11, 61, 32);
+	color:aliceblue;
+	border-radius: 5px;
+	margin: 2px;
+}
+.ongoing, .ongoing a{
+	background-color: rgb(255, 247, 10);
+	color:rgb(0, 0, 0);
+	border-radius: 5px;
+	margin: 2px;
+}
+
+h1{
+	margin-top: 0;
+	color: greenyellow;
+}
+
+.meta_android_developer_professional_certificate, .ibm_cybersecurity_analyst_professional_certificate, .meta_database_engineer_professional_certificate, .meta_frontend_developer_professional_certificate, .meta_backend_developer_professional_certificate, .natural_language_processing_specialization, .google_it_automation_with_python_professional_certificate, .ibm_devops_and_software_engineering_professional_certificate {
+list-style: none;
+}
+
+.flex-container{
+	display: flex;
+	text-decoration: none;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.spec_link{
+	padding: 10px;
+}
