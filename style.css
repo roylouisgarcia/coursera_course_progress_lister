@@ -9,7 +9,7 @@ a{
 
 .box {
 	background-color: rgb(144, 209, 170);
-	width: 400px;
+	width: 200px;
 	color: black;
 	border-radius: 5px;
 	margin: 2px;
@@ -57,4 +57,17 @@ list-style: none;
 
 .spec_link{
 	padding: 10px;
+	margin-left: 10px;
+	cursor: pointer;
+	border: 1px solid #c2ccd3;
+	background-color: transparent;
+	height: 30px;
+	width: auto;
+	color: #7094ac;
+	font-size: 1.5em;
+}
+
+.spec_link:hover{
+	color: black;
+	background-color: yellow;
 }
