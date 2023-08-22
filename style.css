@@ -39,7 +39,7 @@ ul a{
 	margin: 2px;
 }
 
-h1{
+h1, h2{
 	margin-top: 0;
 	color: greenyellow;
 	text-align: center;
@@ -93,6 +93,33 @@ list-style: none;
 .courses_list_display_none{
 	display: none;
 }
+#legend{
+	display: block;
+	text-align: center;
+}
+ul.legend{
+	list-style: none;
+}
+
+
+ul.legend li a {
+	margin: 30px;
+	text-decoration: none;
+}
+
+.legend_done{
+	background-color: rgb(11, 61, 32);
+	color:aliceblue;
+}
+.legend_ongoing{
+	background-color: rgb(255, 247, 10);
+	color:rgb(0, 0, 0);	
+}
+.legend_box{
+	background-color: rgb(144, 209, 170);
+	color: black;	
+}
+  
 
 @media only screen and (max-width: 600px) {
   /* For mobile phones: */
