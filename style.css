@@ -68,10 +68,11 @@ list-style: none;
 	font-size: 1.5em;
 }
 
-.toggle_courses:hover{
+.toggle_courses_clicked, .toggle_courses:hover{
 	color: black;
 	background-color: yellow;
 }
+
 .spec_link{
 	padding: 10px;
 	margin-left: 10px;
@@ -87,11 +88,6 @@ list-style: none;
 .spec_link:hover{
 	color: black;
 	background-color: yellow;
-}
-
-.courses_list_display_flex{
-	display: flex;
-	align-self: center;
 }
 
 .courses_list_display_none{
