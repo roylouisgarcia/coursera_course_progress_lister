@@ -56,6 +56,22 @@ list-style: none;
 	flex-wrap: wrap;
 }
 
+.toggle_courses{
+	padding: 10px;
+	margin-left: 10px;
+	cursor: pointer;
+	border: 1px solid #c2ccd3;
+	background-color: transparent;
+	height: 30px;
+	width: auto;
+	color: #7094ac;
+	font-size: 1.5em;
+}
+
+.toggle_courses:hover{
+	color: black;
+	background-color: yellow;
+}
 .spec_link{
 	padding: 10px;
 	margin-left: 10px;
@@ -72,7 +88,9 @@ list-style: none;
 	color: black;
 	background-color: yellow;
 }
-
+.ibm_cybersecurity_analyst_professional_certificate{
+	display: none;
+}
 @media only screen and (max-width: 600px) {
   /* For mobile phones: */
   body{
