@@ -88,9 +88,16 @@ list-style: none;
 	color: black;
 	background-color: yellow;
 }
-.ibm_cybersecurity_analyst_professional_certificate{
+
+.courses_list_display_flex{
+	display: flex;
+	align-self: center;
+}
+
+.courses_list_display_none{
 	display: none;
 }
+
 @media only screen and (max-width: 600px) {
   /* For mobile phones: */
   body{
