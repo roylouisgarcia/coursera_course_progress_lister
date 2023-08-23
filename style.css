@@ -55,7 +55,6 @@ list-style: none;
 	justify-content: center;
 	flex-wrap: wrap;
 }
-
 .toggle_courses{
 	padding: 10px;
 	margin-left: 10px;
@@ -121,7 +120,7 @@ ul.legend li a {
 }
   
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 550px) {
   /* For mobile phones: */
   body{
 
@@ -130,11 +129,11 @@ ul.legend li a {
   }
 
   .box{
-	width: 160px;
+	width: 260px;
   }
 
   h1{
-  font-size: 1.3em;
+  font-size: 1.1em;
   text-align: center;
   }
  .spec_link{
@@ -142,4 +141,20 @@ padding:5px;
 height: auto;
   font-size: .8em;
  } 
+ .toggle_courses{
+	font-size: .8em;
+	padding: 1px;
+	height: auto;
+ }
+ li.course_link a{
+	font-size: 10px;
+ }
+ .legend_done, .legend_ongoing, .legend_box{
+	font-size: 10px;
+	padding: 3px;
+	margin: 3px;
+}
+h2{
+	font-size: .8em;
+}
 }
