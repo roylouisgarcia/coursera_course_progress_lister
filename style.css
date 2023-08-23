@@ -118,6 +118,16 @@ ul.legend li a {
 	background-color: rgb(144, 209, 170);
 	color: black;	
 }
+
+.course-header{
+	background-color: #c2ccd3;
+	color:black;
+	border-top: #040505;
+}
+h1{
+	color: #040505;
+	width: 400px;
+}
   
 
 @media only screen and (max-width: 550px) {

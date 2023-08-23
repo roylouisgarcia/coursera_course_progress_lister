@@ -11,9 +11,11 @@ $(document).ready(function () {
         this.parentElement.nextElementSibling.classList.remove(
           "courses_list_display_none"
         );
+        this.parentElement.style.backgroundColor = "#FFA500";
       } else {
         this.removeAttribute("data-clicked");
         this.removeAttribute("style");
+        this.parentElement.removeAttribute("style");
         this.parentElement.nextElementSibling.classList.add(
           "courses_list_display_none"
         );
