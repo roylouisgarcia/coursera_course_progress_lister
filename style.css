@@ -59,28 +59,28 @@ list-style: none;
 	padding: 10px;
 	margin-left: 10px;
 	cursor: pointer;
-	border: 1px solid #c2ccd3;
+	border: 1px solid #c23131;
 	background-color: transparent;
 	height: 30px;
 	width: auto;
-	color: #7094ac;
+	color: #c23131;
 	font-size: 1.5em;
 }
 
 .toggle_courses_clicked, .toggle_courses:hover{
 	color: black;
-	background-color: yellow;
+	background-color: rgb(207, 187, 8);
 }
 
 .spec_link{
 	padding: 10px;
 	margin-left: 10px;
 	cursor: pointer;
-	border: 1px solid #c2ccd3;
+	border: 1px solid #292779;
 	background-color: transparent;
 	height: 30px;
 	width: auto;
-	color: #7094ac;
+	color: #292779;
 	font-size: 1.5em;
 }
 
@@ -120,7 +120,10 @@ ul.legend li a {
 }
 
 .course-header{
+	padding-top: 10px;
+	padding-bottom: 5px;
 	background-color: #c2ccd3;
+	border: 1px solid #050c11;
 	color:black;
 	border-top: #040505;
 }
@@ -139,7 +142,7 @@ h1{
   }
 
   .box{
-	width: 260px;
+	width: 80%;
   }
 
   h1{
@@ -157,7 +160,7 @@ height: auto;
 	height: auto;
  }
  li.course_link a{
-	font-size: 10px;
+	font-size: .9em;
  }
  .legend_done, .legend_ongoing, .legend_box{
 	font-size: 10px;
